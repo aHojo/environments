@@ -15,3 +15,7 @@ mod 'puppetlabs-apt',
 mod 'testrepo',
   :git => 'https://github.com/amh5366/testrepo.git',
   :branch => 'master'
+
+mod 'apache',
+  :git => 'https://github.com/amh5366/apache.git',
+  :branch => 'master'
